@@ -1,2 +1,1 @@
-# realestate-alert
-Bot de veille immobilière pour Dallaz / Potteilaz
+# RealEstate Alert Bot\n\nCe bot surveille plusieurs sites immobiliers suisses pour repérer les maisons à vendre à Dallaz ou Potteilaz (Bussigny). Une alerte WhatsApp est envoyée si une annonce correspondante est trouvée.

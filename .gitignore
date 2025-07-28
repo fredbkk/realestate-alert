@@ -1,0 +1,6 @@
+env/
+session.json
+new_ads_pending.json
+*.log
+__pycache__/
+.DS_Store
